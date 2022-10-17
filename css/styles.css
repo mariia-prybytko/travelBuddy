@@ -194,11 +194,11 @@ h3 {
 }
 
 
-@media (max-width: 773px) {
+@media (max-width: 1020px) {
   .title-image {
     position: static;
     transform: rotate(0);
-    width: 60%;
+    width: 40%;
   }
   #title {
     text-align: center;
